@@ -4,7 +4,7 @@ img{
     height: 110px;
 }
 header{
-    float:right;
+    float:left;
     background-color: palevioletred;
     width: 7%;
     height: 110px;
@@ -13,25 +13,27 @@ header{
 
 article{
     background-color: palevioletred;
-    float: left;
+    float: right;
     width: 92%;
     height: 95px;
     
 }
 aside{
     background-color: palevioletred;
-    float: left;
-    width: 20%;
-    height: 1100px;
+    float: right;
+    width: 24%;
+    height: 1175px;
     margin: 15px;
 }
 section{
     background-color: palevioletred;
+    font-size: xx-large;
     float: right;
     width: 70%;
     height: 500px;
     padding: 10px;
     margin: 15px;
+    text-align: center;
 }
 nav{
     background-color: palevioletred;
@@ -42,11 +44,11 @@ nav{
     margin: 15px;
 }
 button{
-    background-color: rgb(216, 68, 93);
+    background-color: rgb(228, 112, 131);
     border-radius:  4px;
     border-color: white;
     font-size: 14px;
     width: 10%;
     height: 70%;
-    float: left;
+    float: right;
 }
